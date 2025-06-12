@@ -1,4 +1,4 @@
-// ARRAYS
+// PRESIDENTS ARRAYS
 const arrayList = [
   {
     Name: "Bola Ahmed Tinubu",
